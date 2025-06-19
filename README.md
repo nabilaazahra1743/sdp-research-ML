@@ -100,7 +100,17 @@ These results confirm that the **stacking ensemble** offers a significantly more
 - Confusion Matrix (TP, FP, TN, FN)
 - Paired t-test for statistical significance
 
+## 🤖 Model Deployment and Automation
 
+This model has been implemented on RPA Automation project, build with UIPath. 
+Why using RPA as a framework deployment?
+1. Allows running CMD for software metrics extraction
+2. Allows running applications automatically without human intervention (Unattended Robot)
+3. Supports scheduling and setting workflows to run RPA automatically at certain hours
+
+Link (RPA for SDP Implementation): https://bit.ly/RPA-SoftwareDefectPrediction
+
+ 
 ## 📌 Key Contributions
 
 - Developed a robust software defect prediction model using tree-based ensemble methods.
